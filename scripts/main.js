@@ -1,4 +1,4 @@
-alert('g');
+
 var mbutton=document.querySelector('button');
 var mhead=document.querySelector('h1');
 function setUserName(){
